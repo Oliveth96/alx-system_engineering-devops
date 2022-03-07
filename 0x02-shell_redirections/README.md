@@ -1,1 +1,1 @@
-ALX Software Training on Redirections and Filters
+ALX Training on Shell Redirections and Filters
