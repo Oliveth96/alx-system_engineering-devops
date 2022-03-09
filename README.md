@@ -1,2 +1,1 @@
-# alx-zero_day
-# alx-system_engineering-devops
+# ALX Shell Basics Project
