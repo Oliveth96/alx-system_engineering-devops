@@ -1,2 +1,1 @@
-#!/bin/bash 
-pwd 
+# Tasks of the Shell Basic Projects
