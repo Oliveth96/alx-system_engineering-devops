@@ -20,8 +20,8 @@
 | Tasks | Files | Description |
 | ----- | ----- | ------ |
 | 0: Authors/README File | [AUTHORS](https://github.com/Oliveth96/alx-system_engineering-devops/0x0E-web_stack_debugging_1/AUTHORS) | Project authors |
-| 1: Nginx likes port 80 | (https://github.com/Oliveth96/alx-system_engineering-devops/0x0E-web_stack_debugging_1/0-nginx_likes_port_80) | Using your debugging skills, find out what’s keeping your Ubuntu container’s Nginx installation from listening on port 80. Then, write a Bash script with the minimum number of commands to automate your fix |
-| 2: Make it sweet and short | (https://github.com/Oliveth96/alx-system_engineering-devops/0x0E-web_stack_debugging_1/1-debugging_made_short) | Using what you did for file #1, make your fix short and sweet |
+| 1: Nginx likes port 80 | [0-nginx_likes_port_80](https://github.com/Oliveth96/alx-system_engineering-devops/0x0E-web_stack_debugging_1/0-nginx_likes_port_80) | Using your debugging skills, find out what’s keeping your Ubuntu container’s Nginx installation from listening on port 80. Then, write a Bash script with the minimum number of commands to automate your fix |
+| 2: Make it sweet and short | [1-debugging_made_short](https://github.com/Oliveth96/alx-system_engineering-devops/0x0E-web_stack_debugging_1/1-debugging_made_short) | Using what you did for file #1, make your fix short and sweet |
 
 
 
